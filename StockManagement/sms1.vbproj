@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{06EF2EA0-151D-4A19-B317-A8545116D827}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>sms1.My.MyApplication</StartupObject>
+    <RootNamespace>sms1</RootNamespace>
+    <AssemblyName>sms1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>sms1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>sms1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Downloads\Guna.UI\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WebForms.10.0.40219.1\lib\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\15.0v461\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportPortal.Client, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReportPortal.Client.3.1.0\lib\net462\ReportPortal.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportPortal.Shared, Version=3.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReportPortal.Shared.3.3.0\lib\net462\ReportPortal.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.6\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMIN\frm_AdminMain.Designer.vb">
+      <DependentUpon>frm_AdminMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\frm_AdminMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\frm_managestock.Designer.vb">
+      <DependentUpon>frm_managestock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\frm_managestock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\frm_ManageUsers.Designer.vb">
+      <DependentUpon>frm_ManageUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\frm_ManageUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbconnection.vb" />
+    <Compile Include="ADMIN\frm_addgroup.Designer.vb">
+      <DependentUpon>frm_addgroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\frm_addgroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\frm_ManageProducts.Designer.vb">
+      <DependentUpon>frm_ManageProducts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\frm_ManageProducts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN AND REGISTER\frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN AND REGISTER\frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN AND REGISTER\frm_register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN AND REGISTER\frm_register.Designer.vb">
+      <DependentUpon>frm_register.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_jitGenerate.Designer.vb">
+      <DependentUpon>frm_jitGenerate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_jitGenerate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_jitGenerateList.Designer.vb">
+      <DependentUpon>frm_jitGenerateList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_jitGenerateList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_manageschedule.Designer.vb">
+      <DependentUpon>frm_manageschedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_manageschedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_ProductionMain.Designer.vb">
+      <DependentUpon>frm_ProductionMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_ProductionMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_Report.Designer.vb">
+      <DependentUpon>frm_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_reportviewer.Designer.vb">
+      <DependentUpon>frm_reportviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTION\frm_reportviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE\frm_addsuppliers.Designer.vb">
+      <DependentUpon>frm_addsuppliers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STORE\frm_addsuppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE\frm_checklist.Designer.vb">
+      <DependentUpon>frm_checklist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STORE\frm_checklist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE\frm_goodsreceipt.Designer.vb">
+      <DependentUpon>frm_goodsreceipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STORE\frm_goodsreceipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE\frm_jitissue.Designer.vb">
+      <DependentUpon>frm_jitissue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STORE\frm_jitissue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE\frm_reportstore.Designer.vb">
+      <DependentUpon>frm_reportstore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STORE\frm_reportstore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE\frm_StoreMain.Designer.vb">
+      <DependentUpon>frm_StoreMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STORE\frm_StoreMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ADMIN\frm_AdminMain.resx">
+      <DependentUpon>frm_AdminMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\frm_managestock.resx">
+      <DependentUpon>frm_managestock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\frm_addgroup.resx">
+      <DependentUpon>frm_addgroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\frm_ManageProducts.resx">
+      <DependentUpon>frm_ManageProducts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN AND REGISTER\frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\frm_ManageUsers.resx">
+      <DependentUpon>frm_ManageUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN AND REGISTER\frm_register.resx">
+      <DependentUpon>frm_register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTION\frm_jitGenerate.resx">
+      <DependentUpon>frm_jitGenerate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTION\frm_jitGenerateList.resx">
+      <DependentUpon>frm_jitGenerateList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTION\frm_manageschedule.resx">
+      <DependentUpon>frm_manageschedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTION\frm_ProductionMain.resx">
+      <DependentUpon>frm_ProductionMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTION\frm_Report.resx">
+      <DependentUpon>frm_Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTION\frm_reportviewer.resx">
+      <DependentUpon>frm_reportviewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="STORE\frm_addsuppliers.resx">
+      <DependentUpon>frm_addsuppliers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STORE\frm_checklist.resx">
+      <DependentUpon>frm_checklist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STORE\frm_goodsreceipt.resx">
+      <DependentUpon>frm_goodsreceipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STORE\frm_jitissue.resx">
+      <DependentUpon>frm_jitissue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STORE\frm_reportstore.resx">
+      <DependentUpon>frm_reportstore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STORE\frm_StoreMain.resx">
+      <DependentUpon>frm_StoreMain.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.6\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.6\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.6\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.6\build\System.Text.Json.targets'))" />
+    <Error Condition="!Exists('..\packages\ReportPortal.Shared.3.3.0\build\net462\ReportPortal.Shared.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\ReportPortal.Shared.3.3.0\build\net462\ReportPortal.Shared.targets'))" />
+  </Target>
+  <Import Project="..\packages\ReportPortal.Shared.3.3.0\build\net462\ReportPortal.Shared.targets" Condition="Exists('..\packages\ReportPortal.Shared.3.3.0\build\net462\ReportPortal.Shared.targets')" />
+</Project>

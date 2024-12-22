@@ -1,0 +1,345 @@
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\sms1.exe.config
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\sms1.exe
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\sms1.pdb
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\sms1.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\MySql.Data.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.vbproj.AssemblyReference.cache
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.Resources.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.vbproj.GenerateResource.cache
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.vbproj.CoreCompileInputs.cache
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.vbproj.CopyComplete
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.exe
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.xml
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.pdb
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_login.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_AdminMain.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_ManageProducts.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_addgroup.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_managestock.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_jitGenerate.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_jitGenerateList.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_manageschedule.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_ProductionMain.resources
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Guna.UI.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ReportPortal.Client.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ReportPortal.Shared.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Buffers.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Memory.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Text.Json.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.ValueTuple.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ReportPortal.Client.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ReportPortal.Shared.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Buffers.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Memory.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Text.Json.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\System.ValueTuple.xml
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_reportviewer.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\RdlCompile.cache
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\RdlCompile.compiled
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\EnvDTE.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\stdole.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_Report.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_addsuppliers.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_checklist.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_goodsreceipt.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_jitissue.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_reportstore.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_StoreMain.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_ManageUsers.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_register.resources
+C:\Users\mohsi\source\repos\sms1\sms1\obj\Debug\sms1.frm_UpdateProducts.resources
+E:\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\sms1 - Copy\sms1\bin\Debug\sms1.exe.config
+E:\sms1 - Copy\sms1\bin\Debug\sms1.exe
+E:\sms1 - Copy\sms1\bin\Debug\sms1.pdb
+E:\sms1 - Copy\sms1\bin\Debug\sms1.xml
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\sms1 - Copy\sms1\bin\Debug\ReportPortal.Client.dll
+E:\sms1 - Copy\sms1\bin\Debug\ReportPortal.Shared.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Buffers.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Memory.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Numerics.Vectors.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Text.Encodings.Web.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Text.Json.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\sms1 - Copy\sms1\bin\Debug\System.ValueTuple.dll
+E:\sms1 - Copy\sms1\bin\Debug\EnvDTE.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\sms1 - Copy\sms1\bin\Debug\BouncyCastle.Crypto.dll
+E:\sms1 - Copy\sms1\bin\Debug\stdole.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.MSXML.dll
+E:\sms1 - Copy\sms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\sms1 - Copy\sms1\bin\Debug\ReportPortal.Client.xml
+E:\sms1 - Copy\sms1\bin\Debug\ReportPortal.Shared.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Buffers.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Memory.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Numerics.Vectors.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Text.Encodings.Web.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Text.Json.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\sms1 - Copy\sms1\bin\Debug\System.ValueTuple.xml
+E:\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.AssemblyReference.cache
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_AdminMain.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_managestock.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_addgroup.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_ManageProducts.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_UpdateProducts.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_login.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_ManageUsers.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_register.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.Resources.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_jitGenerate.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_jitGenerateList.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_manageschedule.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_ProductionMain.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_Report.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_reportviewer.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_addsuppliers.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_checklist.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_goodsreceipt.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_jitissue.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_reportstore.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.frm_StoreMain.resources
+E:\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.GenerateResource.cache
+E:\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.CoreCompileInputs.cache
+E:\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.CopyComplete
+E:\sms1 - Copy\sms1\obj\Debug\sms1.exe
+E:\sms1 - Copy\sms1\obj\Debug\sms1.xml
+E:\sms1 - Copy\sms1\obj\Debug\sms1.pdb
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\sms1.exe.config
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\sms1.exe
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\sms1.pdb
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\sms1.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ReportPortal.Client.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ReportPortal.Shared.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Buffers.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Memory.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Numerics.Vectors.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Text.Json.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.ValueTuple.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\EnvDTE.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\stdole.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.MSXML.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ReportPortal.Client.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ReportPortal.Shared.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Buffers.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Memory.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Numerics.Vectors.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Text.Json.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\System.ValueTuple.xml
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.AssemblyReference.cache
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_AdminMain.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_managestock.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_addgroup.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_ManageProducts.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_login.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_ManageUsers.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_register.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.Resources.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_jitGenerate.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_jitGenerateList.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_manageschedule.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_ProductionMain.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_Report.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_reportviewer.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_addsuppliers.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_checklist.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_goodsreceipt.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_jitissue.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_reportstore.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.frm_StoreMain.resources
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.GenerateResource.cache
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.CoreCompileInputs.cache
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.vbproj.CopyComplete
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.exe
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.xml
+D:\Clg Project\sms1 - Copy\sms1\obj\Debug\sms1.pdb
